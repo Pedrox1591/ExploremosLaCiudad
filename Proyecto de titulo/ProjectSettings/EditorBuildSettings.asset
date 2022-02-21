@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/0Login/Login.unity
+    guid: 59315a6498185a143a22164a7a0c6d2a
+  - enabled: 1
+    path: Assets/Scenes/1Pantalla de inicio/Pantalla de inicio.unity
+    guid: eb39c6a8a368ed14da8131e8f0a098f8
+  - enabled: 1
+    path: Assets/Scenes/2Mapa/Mapa.unity
+    guid: 095d24bd2ac95d544a50914bec517698
+  - enabled: 1
+    path: Assets/Scenes/3ActividadDesechemosLaComidaChatarra/Explicacion actividad_1.unity
+    guid: 2152b933b52dd5e4aa40ae714c4157c9
+  - enabled: 1
+    path: Assets/Scenes/3ActividadDesechemosLaComidaChatarra/Actividad1_Parte1.unity
+    guid: 4df98e53a9eb89d4baade857503057ac
+  - enabled: 1
+    path: Assets/Scenes/4Actividad2/Explicacion actividad_2.unity
+    guid: 1ff2e5462361d4645a92f79410808bf8
+  - enabled: 1
+    path: Assets/Scenes/4Actividad2/Actividad2.unity
+    guid: bf580676453143445a904d4aa7ed90f8
+  - enabled: 1
+    path: Assets/Scenes/4Actividad3/explicacion_Actividad3.unity
+    guid: 1768ff301e754934e81c646a343f2a32
+  - enabled: 1
+    path: Assets/Scenes/4Actividad3/actividad3.unity
+    guid: a5806cac509a2934f8c58d80672c7e8e
+  - enabled: 1
+    path: Assets/Scenes/Museo/EntradaAlMuseo.unity
+    guid: d34dfbb8d5d57554c8b6dd5025744d0f
+  - enabled: 1
+    path: Assets/Scenes/Museo/Dentro del museo/Dentro del museo.unity
+    guid: cc42ae645fd8be14387d903921e559d5
+  - enabled: 1
+    path: Assets/Scenes/Museo/Salon de juegos/Salon de juegos.unity
+    guid: c193d2e8c52b0e8448a4adb31765d53d
+  - enabled: 1
+    path: Assets/Scenes/Museo/Salon de juegos/Primer Juego/PrimerJuego.unity
+    guid: 026ae4a7584dd6d4eab7b3a09114f0e8
+  - enabled: 1
+    path: Assets/Scenes/Museo/Salon de juegos/segundo juego/segundo juego.unity
+    guid: 8ddf8ee86bd5adc42bcba49def4890fc
+  - enabled: 1
+    path: Assets/Scenes/Museo/Salon de esculturas/Salon de esculturas.unity
+    guid: d0c5c7b212b8e464188d0da013afe689
+  - enabled: 1
+    path: Assets/Scenes/Museo/Salon de esculturas/Crea tu escultura/Crea tu propia
+      escultura.unity
+    guid: 5642a55ad59b89346aa595d161f4cc32
+  - enabled: 1
+    path: "Assets/Scenes/Museo/Salon de esculturas/Mira las esculturas de tus compa\xF1eros/Mira
+      las esculturas de tus compa\xF1eros.unity"
+    guid: f6eb822763948b54c9e1e88f125eb8ff
+  m_configObjects: {}

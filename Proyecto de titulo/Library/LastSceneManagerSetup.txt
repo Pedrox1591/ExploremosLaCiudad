@@ -1,0 +1,71 @@
+sceneSetups:
+- path: Assets/Scenes/0Login/Login.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/1Pantalla de inicio/Pantalla de inicio.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/2Mapa/Mapa.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/3ActividadDesechemosLaComidaChatarra/Explicacion actividad_1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/3ActividadDesechemosLaComidaChatarra/Actividad1_Parte1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/4Actividad2/Explicacion actividad_2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/4Actividad2/Actividad2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/4Actividad3/explicacion_Actividad3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/4Actividad3/actividad3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Museo/EntradaAlMuseo.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Museo/Dentro del museo/Dentro del museo.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Museo/Salon de juegos/Salon de juegos.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Museo/Salon de juegos/Primer Juego/PrimerJuego.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Museo/Salon de juegos/segundo juego/segundo juego.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Museo/Salon de esculturas/Salon de esculturas.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Museo/Salon de esculturas/Crea tu escultura/Crea tu propia
+    escultura.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/Museo/Salon de esculturas/Mira las esculturas de tus compa\xF1eros/Mira
+    las esculturas de tus compa\xF1eros.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
